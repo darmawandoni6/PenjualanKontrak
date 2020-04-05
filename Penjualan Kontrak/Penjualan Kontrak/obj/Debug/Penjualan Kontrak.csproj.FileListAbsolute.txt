@@ -1,0 +1,12 @@
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\bin\Debug\Penjualan Kontrak.exe.config
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\bin\Debug\Database.mdf
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\bin\Debug\Database_log.ldf
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\bin\Debug\Penjualan Kontrak.exe
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\bin\Debug\Penjualan Kontrak.pdb
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\obj\Debug\Penjualan Kontrak.csprojResolveAssemblyReference.cache
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\obj\Debug\Penjualan_Kontrak.Form1.resources
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\obj\Debug\Penjualan_Kontrak.frmCustomers.resources
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\obj\Debug\Penjualan_Kontrak.Properties.Resources.resources
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\obj\Debug\Penjualan Kontrak.csproj.GenerateResource.Cache
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\obj\Debug\Penjualan Kontrak.exe
+E:\Kuliah\TA\Final\Penjualan Kontrak\Penjualan Kontrak\obj\Debug\Penjualan Kontrak.pdb
